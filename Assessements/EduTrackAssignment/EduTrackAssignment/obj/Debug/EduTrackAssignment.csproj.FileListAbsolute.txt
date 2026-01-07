@@ -1,0 +1,8 @@
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\bin\Debug\EduTrackAssignment.exe.config
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\bin\Debug\EduTrackAssignment.exe
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\bin\Debug\EduTrackAssignment.pdb
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\obj\Debug\EduTrackAssignment.csproj.AssemblyReference.cache
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\obj\Debug\EduTrackAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\obj\Debug\EduTrackAssignment.exe
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\obj\Debug\EduTrackAssignment.pdb
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\EduTrackAssignment\EduTrackAssignment\obj\Debug\EduTrackAssignment.exe.config

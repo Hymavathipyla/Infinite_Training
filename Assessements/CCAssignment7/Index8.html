@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>input change</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <h2>Type Something</h2>
+  <input type="text" id="myInput">
+
+  <script>
+    $("#myInput").on("change", function()
+     {
+      $("body").append("<p>You changed the input field!</p>");
+    });
+  </script>
+</body>
+</html>

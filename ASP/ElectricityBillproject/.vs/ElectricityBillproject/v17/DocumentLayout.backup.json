@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|c:\\users\\pylah\\documents\\asp\\electricitybillproject\\electricitybillproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\defaultboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\defaultboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\lastnviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\lastnviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\defaultboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\defaultboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\billing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\billing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\electricitybillproject\\lastnviews.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41482497-9F5C-4866-A45F-5F9A3E9E56E7}|ElectricityBillproject\\ElectricityBillproject.csproj|solutionrelative:electricitybillproject\\lastnviews.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LoginForm.aspx",
+              "RelativeToolTip": "ElectricityBillproject\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T10:22:24.236Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Default.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Default.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Default.aspx",
+              "RelativeToolTip": "ElectricityBillproject\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T07:45:35.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Site.Master",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Site.Master",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Site.Master",
+              "RelativeToolTip": "ElectricityBillproject\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T12:10:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Web.config",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Web.config",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Web.config",
+              "RelativeToolTip": "ElectricityBillproject\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-27T07:44:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Billing.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx",
+              "RelativeToolTip": "ElectricityBillproject\\Billing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-27T09:11:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "defaultboard.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\defaultboard.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\defaultboard.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\defaultboard.aspx",
+              "RelativeToolTip": "ElectricityBillproject\\defaultboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T16:06:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\ElectricityBoard.cs",
+              "RelativeToolTip": "ElectricityBillproject\\ElectricityBoard.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:00:54.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Billing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Billing.aspx.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx.cs",
+              "RelativeToolTip": "ElectricityBillproject\\Billing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:07:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\site.css",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\site.css",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\site.css",
+              "RelativeToolTip": "ElectricityBillproject\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-28T16:36:29.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LastNviews.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LastNviews.aspx",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\LastNviews.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LastNviews.aspx",
+              "RelativeToolTip": "ElectricityBillproject\\LastNviews.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T15:05:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityBillproject\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T08:11:23.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "defaultboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\defaultboard.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\defaultboard.aspx.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\defaultboard.aspx.cs",
+              "RelativeToolTip": "ElectricityBillproject\\defaultboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:06:57.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\DBHandler.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\DBHandler.cs",
+              "RelativeToolTip": "ElectricityBillproject\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T08:27:40.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\BillValidator.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\BillValidator.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\BillValidator.cs",
+              "RelativeToolTip": "ElectricityBillproject\\BillValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T08:19:47.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LoginForm.aspx.cs",
+              "RelativeToolTip": "ElectricityBillproject\\LoginForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:44:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Billing.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\Billing.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\Billing.aspx.designer.cs",
+              "RelativeToolTip": "ElectricityBillproject\\Billing.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T16:01:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LastNviews.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LastNviews.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityBillproject\\LastNviews.aspx.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\ElectricityBillproject\\ElectricityBillproject\\LastNviews.aspx.cs",
+              "RelativeToolTip": "ElectricityBillproject\\LastNviews.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwHsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:49:42.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\bin\Debug\Day4Assigment.exe.config
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\bin\Debug\Day4Assigment.exe
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\bin\Debug\Day4Assigment.pdb
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\obj\Debug\Day4Assigment.csproj.AssemblyReference.cache
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\obj\Debug\Day4Assigment.csproj.CoreCompileInputs.cache
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\obj\Debug\Day4Assigment.exe
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay1\Day4Assigment\Day4Assigment\obj\Debug\Day4Assigment.pdb
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\bin\Debug\Day5Assigment.exe.config
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\bin\Debug\Day5Assigment.exe
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\bin\Debug\Day5Assigment.pdb
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\obj\Debug\Day4Assigment.csproj.AssemblyReference.cache
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\obj\Debug\Day4Assigment.csproj.CoreCompileInputs.cache
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\obj\Debug\Day5Assigment.exe
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\obj\Debug\Day5Assigment.pdb
+C:\Users\pylah\Desktop\DotNetsession\ConsoleAppDay5\Day5Assigment\Day4Assigment\obj\Debug\Day5Assigment.exe.config

@@ -1,0 +1,8 @@
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\bin\Debug\Assignment_week2.exe.config
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\bin\Debug\Assignment_week2.exe
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\bin\Debug\Assignment_week2.pdb
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\obj\Debug\Assignment_week2.csproj.AssemblyReference.cache
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\obj\Debug\Assignment_week2.csproj.CoreCompileInputs.cache
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\obj\Debug\Assignment_week2.exe
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\obj\Debug\Assignment_week2.pdb
+C:\Users\pylah\Documents\DotNetsession\ConsoleAppDay13\Assignment_week2\Assignment_week2\obj\Debug\Assignment_week2.exe.config

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>single element section</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color:cornsilk;
+            padding: 20px;
+            text-align: center;
+        }
+ 
+        h2 {
+            color:cornflowerblue;
+        }
+ 
+         ul#items {
+            list-style-type: none;
+            padding: 0;
+            max-width: 200px;
+            margin: 20px auto;
+            color:cornflowerblue;
+        }
+        
+        
+        p {
+            font-size: 18px;
+            margin-top: 20px;
+            color:cornflowerblue;
+        }
+ 
+        #output {
+            color: crimson;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+ 
+    <h2>To get a single element from a selection</h2>
+ 
+    <ul id="items">
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+ 
+    <p><strong>Selected Item :</strong> <span id="output"></span></p>
+ 
+    <script>
+        $("#items li").click(function () {
+            $("#output").text($(this).text());
+        });
+    </script>
+ 
+</body>
+ 
+</html>
+ 
+
+
+    

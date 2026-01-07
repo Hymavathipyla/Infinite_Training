@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1EF6C7-DFEF-4262-8F0D-D1F9604A137E}|Assignment1Validation\\Assignment1Validation.csproj|c:\\users\\pylah\\documents\\asp\\assignment1validation\\assignment1validation\\validator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1EF6C7-DFEF-4262-8F0D-D1F9604A137E}|Assignment1Validation\\Assignment1Validation.csproj|solutionrelative:assignment1validation\\validator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1EF6C7-DFEF-4262-8F0D-D1F9604A137E}|Assignment1Validation\\Assignment1Validation.csproj|C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\assignment1validation\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F1EF6C7-DFEF-4262-8F0D-D1F9604A137E}|Assignment1Validation\\Assignment1Validation.csproj|solutionrelative:assignment1validation\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validator.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\Assignment1Validation\\Validator.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment1Validation\\Validator.aspx.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\Assignment1Validation\\Validator.aspx.cs",
+              "RelativeToolTip": "Assignment1Validation\\Validator.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:16:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.aspx",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\Assignment1Validation\\Validator.aspx",
+              "RelativeDocumentMoniker": "Assignment1Validation\\Validator.aspx",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\ASP\\Assignment1Validation\\Assignment1Validation\\Validator.aspx",
+              "RelativeToolTip": "Assignment1Validation\\Validator.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T05:13:59.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

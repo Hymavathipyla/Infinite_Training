@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|c:\\users\\pylah\\documents\\mvc\\mvc_assignment1\\mvc_assignment1\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5142BA-4DB5-41C6-8252-3FD09CE049B8}|MVC_Assignment1\\MVC_Assignment1.csproj|solutionrelative:mvc_assignment1\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "MVC_Assignment1\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:53:13.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Views\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Assignment1\\Views\\Contacts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:50:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "MVC_Assignment1\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:47:04.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "MVC_Assignment1\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:34:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "MVC_Assignment1\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:39:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "MVC_Assignment1\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:40:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Models\\ContactContext.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Models\\ContactContext.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Models\\ContactContext.cs",
+              "RelativeToolTip": "MVC_Assignment1\\Models\\ContactContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:37:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment1\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\pylah\\Documents\\MVC\\MVC_Assignment1\\MVC_Assignment1\\Models\\Contact.cs",
+              "RelativeToolTip": "MVC_Assignment1\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:35:40.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

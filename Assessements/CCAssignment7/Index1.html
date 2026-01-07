@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>multiplication and Division Form</title>
+</head>
+<body>
+  <h2>Multiplication and Division</h2>
+  
+ <!-- sample form -->
+  <form>
+    <label for="num1">Enter first number:</label>
+    <input type="number" id="num1" required><br><br>
+
+    <label for="num2">Enter second number:</label>
+    <input type="number" id="num2" required><br><br>
+
+    <!-- Buttons -->
+    <button type="button" onclick="multiply()">Multiply</button>
+    <button type="button" onclick="divide()">Divide</button>
+
+  </form>
+  
+  <p id="result"></p>
+   <!--js logic -->
+  <script>
+    function multiply() {   // mutliply //
+      let n1 = parseFloat(document.getElementById("num1").value);
+      let n2 = parseFloat(document.getElementById("num2").value);
+      document.getElementById("result").innerText = "Multiplication: " + (n1 * n2);
+    }
+
+    function divide() {    // divide //
+      let n1 = parseFloat(document.getElementById("num1").value);
+      let n2 = parseFloat(document.getElementById("num2").value);
+      if (n2 === 0) {
+        document.getElementById("result").innerText = "Division by zero is not allowed!";
+      } else {
+        document.getElementById("result").innerText = "Division: " + (n1 / n2);
+      }
+    }
+  </script>
+</body>
+</html>
+
